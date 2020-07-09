@@ -8,9 +8,16 @@
 - 🌱 I’m currently learning about the Jupyter Notebooks ecosystem over in [.NET Interactive](https://github.com/dotnet/interactive) 📓
 - 🤔 I’m looking for help maintaining the [PowerShell Pester Test Explorer](https://github.com/TylerLeonhardt/vscode-powershell-test-adapter) 🐢✅
 
-#### Contact
 
-You can find me on 🐦 Twitter [@TylerLeonhardt](https://twitter.com/TylerLeonhardt) - Ask me about PowerShell, VS Code extension dev, my job at Microsoft, open source, anything!
+#### Bio
+
+👀 All my work is open source 👀
+
+Sometimes people give me a mic and I talk about 💻. You can also find me on [Twitch](https://twitch.tv/TylerLeonhardt) live-coding 👨‍💻 📺 projects of all kinds.
+I also like ☕️ with the word "mouthfeel" on the packaging.
+
+- 🙂 My preferred pronouns are: He/Him
+- ⚡ Fun fact: I'm originally from Florida 🌴 but don't hold that against me 😉
 
 #### Tech preferences
 
@@ -23,12 +30,7 @@ tyleonha ~/Code/PowerShell/vscode/vscode-powershell git: add-external-api-1 �
 ❯❯❯
 ```
 
-#### Bio
 
-👀 All my work is open source 👀
+#### Contact
 
-Sometimes people give me a mic and I talk about 💻. You can also find me on [Twitch](https://twitch.tv/TylerLeonhardt) live-coding 👨‍💻 📺 projects of all kinds.
-I also like ☕️ with the word "mouthfeel" on the packaging.
-
-- 🙂 My preferred pronouns are: He/Him
-- ⚡ Fun fact: I'm originally from Florida 🌴 but don't hold that against me 😉
+You can find me on 🐦 Twitter [@TylerLeonhardt](https://twitter.com/TylerLeonhardt) - Ask me about PowerShell, VS Code extension dev, my job at Microsoft, open source, anything!
