@@ -10,7 +10,7 @@ I also like ☕️ with the word "mouthfeel" on the packaging.
 
 - 🔭 I’m currently working on the [PowerShell extension](https://github.com/PowerShell/vscode-powershell) for [Visual Studio Code](https://github.com/Microsoft/vscode)
 - 🌱 I’m currently learning about the Jupyter Notebooks ecosystem over in [.NET Interactive](https://github.com/dotnet/interactive) 📓
-- 🤔 I’m looking for help maintaining the [PowerShell Pester Test Explorer](https://github.com/TylerLeonhardt/vscode-powershell-test-explorer) 🐢✅
+- 🤔 I’m looking for help maintaining the [PowerShell Pester Test Explorer](https://github.com/TylerLeonhardt/vscode-powershell-test-adapter) 🐢✅
 - 💬 Ask me about PowerShell, VS Code extension dev, my job at Microsoft, open source, anything!
 - 📫 How to reach me: 🐦 Twitter [@TylerLeonhardt](https://twitter.com/TylerLeonhardt)
 - 😄 Pronouns: He/Him
