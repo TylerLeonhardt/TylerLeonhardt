@@ -21,15 +21,20 @@ I also like ☕️ with the word "mouthfeel" on the packaging.
 
 #### Tech preferences
 
-- Operating System: macOS
-- Terminal: iTerm2
-- Shell: PowerShell
-- Prompt:
+| |                       |                                                           |
+|-|-----------------------|-----------------------------------------------------------|
+|🖥| **Operating System** | macOS                                                     |
+|📺| **Terminal**         | [iTerm2](https://iterm2.com/)                             |
+|🐚| **Shell**            | [PowerShell](https://github.com/PowerShell)               |
+|📝| **Editor**           | [Visual Studio Code](https://github.com/Microsoft/vscode) |
+
+My terminal prompt looks like...
+
 ```
 tyleonha ~/Code/PowerShell/vscode/vscode-powershell git: add-external-api-1 ≣
 ❯❯❯
 ```
-
+> _Thanks to [posh-git](https://dahlbyk.github.io/posh-git/) and [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)_
 
 #### Contact
 
