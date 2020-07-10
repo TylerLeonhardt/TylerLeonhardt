@@ -1,5 +1,7 @@
 ## Hi, I'm Tyler 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=TylerLeonhardt.TylerLeonhardt)
+
 ### I work on the [PowerShell](https://github.com/PowerShell) team at Microsoft.
 
 #### What am I up to?
