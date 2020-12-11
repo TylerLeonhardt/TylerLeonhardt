@@ -2,14 +2,13 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=TylerLeonhardt.TylerLeonhardt)
 
-### I work on the [PowerShell](https://github.com/PowerShell) team at Microsoft.
+### I work on the [Visual Studio Code](https://github.com/Microsoft/vscode) team at Microsoft.
 
 #### What am I up to?
 
-- 🔭 I’m currently working on the [PowerShell extension](https://github.com/PowerShell/vscode-powershell) for [Visual Studio Code](https://github.com/Microsoft/vscode)
-- 🌱 I’m currently learning about the Jupyter Notebooks ecosystem over in [.NET Interactive](https://github.com/dotnet/interactive) 📓
+- 🔭 I’m currently ramping up for my new gig on the VS Code team 😁
+- 🌱 I’ve also been learning about the Jupyter Notebooks ecosystem over in [.NET Interactive](https://github.com/dotnet/interactive) 📓
 - 🤔 I’m looking for help maintaining the [PowerShell Pester Test Explorer](https://github.com/TylerLeonhardt/vscode-powershell-test-adapter) 🐢✅
-
 
 #### Bio
 
@@ -33,11 +32,11 @@ I also like ☕️ with the word "mouthfeel" on the packaging.
 My terminal prompt looks like...
 
 ```
-tyleonha ~/Code/PowerShell/vscode/vscode-powershell git: add-external-api-1 ≣
+tyleonha ~/Code/TypeScript/vscode git: master ≣
 ❯❯❯
 ```
 > _Thanks to [posh-git](https://dahlbyk.github.io/posh-git/) and [oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)_
 
 #### Contact
 
-You can find me on 🐦 Twitter [@TylerLeonhardt](https://twitter.com/TylerLeonhardt) - Ask me about PowerShell, VS Code extension dev, my job at Microsoft, open source, anything!
+You can find me on 🐦 Twitter [@TylerLeonhardt](https://twitter.com/TylerLeonhardt) - Ask me about VS Code, PowerShell, my job at Microsoft, open source, anything!
