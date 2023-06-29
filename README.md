@@ -1,20 +1,12 @@
 ## Hi, I'm Tyler 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=TylerLeonhardt.TylerLeonhardt)
-
 ### I work on the [Visual Studio Code](https://github.com/Microsoft/vscode) team at Microsoft.
-
-#### What am I up to?
-
-- 🔭 I’m currently ramping up for my new gig on the VS Code team 😁
-- 🌱 I’ve also been learning about the Jupyter Notebooks ecosystem over in [.NET Interactive](https://github.com/dotnet/interactive) 📓
-- 🤔 I’m looking for help maintaining the [PowerShell Pester Test Explorer](https://github.com/TylerLeonhardt/vscode-powershell-test-adapter) 🐢✅
 
 #### Bio
 
 👀 All my work is open source 👀
 
-Sometimes people give me a mic and I talk about 💻. You can also find me on [Twitch](https://twitch.tv/TylerLeonhardt) live-coding 👨‍💻 📺 projects of all kinds.
+Sometimes people give me a mic and I talk about 💻.
 I also like ☕️ with the word "mouthfeel" on the packaging.
 
 - 🙂 My preferred pronouns are: He/Him
